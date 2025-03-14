@@ -150,18 +150,6 @@
     ]
   },
   {
-    "id": "form-embed",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "formPath",
-        "value": "",
-        "label": "Form Path"
-      }
-    ]
-  },
-  {
     "id": "embed-adaptive-form",
     "fields": [
       {
